@@ -9,7 +9,15 @@
 
 - 🔭 I’m currently working on [JoyMoe Corp.](https://www.joymoe.com)
 
+- 🌱 I’m currently learning **React, Rust, Vue**
+
+- 👯 I’m looking to collaborate on **Blockchain, NFT, Games**
+
+- 📝 I regularly write articles on [https://rua.moe](https://rua.moe)
+
 - 📫 How to reach me **i@rua.moe**
+
+- ⚡ Fun fact **I think I'm funny(Doubi)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
