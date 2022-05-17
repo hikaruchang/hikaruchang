@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_hikaruchang_" target="blank"><img src="https://img.shields.io/twitter/follow/_hikaruchang_?logo=twitter&style=for-the-badge" alt="_hikaruchang_" /></a> </p>
 
-- 🔭 I’m currently working on [JoyMoe Corp.](https://www.joymoe.com)
+- 🔭 I’m currently working for [JoyMoe Corp.](https://www.joymoe.com)
 
 - 🌱 I’m currently learning **React, Rust, Vue**
 
